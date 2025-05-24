@@ -1,0 +1,27 @@
+css
+body{
+  background-color: black;
+  color:white;
+  font-family :Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding:0;
+}
+h1 {
+    color:red;
+    margin-top: 20px;
+}
+h2 {
+    margin-top: 30px;
+    font-size: 22px;
+}
+p {
+    color: black;
+    font-size: 16px;
+}
+img {
+    width:200px;
+    height: 150px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
